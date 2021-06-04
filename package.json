@@ -1,0 +1,24 @@
+{
+  "name": "potatoes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@handlebars/allow-prototype-access": "^1.0.5",
+    "body-parser": "^1.19.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^5.3.2",
+    "method-override": "^3.0.0",
+    "mongoose": "^5.12.11",
+    "nodemon": "^2.0.7"
+  },
+  "devDependencies": {
+    "handlebars": "^4.5.0"
+  }
+}
